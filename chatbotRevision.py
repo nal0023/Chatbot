@@ -1,7 +1,3 @@
-#Nathan Lawson
-#Exercise 4
-#Last updated: October 4, 2021
-
 import time
 import sys
 import random
