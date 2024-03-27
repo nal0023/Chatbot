@@ -1,0 +1,6 @@
+Nathan: Salmon
+ nathan:  apples
+Nathan: alfredo
+fanette: curry
+verda: curry
+hangman(): curry
